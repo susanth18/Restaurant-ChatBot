@@ -9,10 +9,10 @@
  Persistent Storage: Stores order and food item details in a MySQL database for future reference and analysis.
  FastAPI Backend: Implements the backend using FastAPI, providing a robust and efficient API for communication between the chatbot and the database.
  # Technologies Used
- Python
- Dialogflow
- FastAPI
- MySQL
+- Python
+- Dialogflow
+- FastAPI
+- MySQL
 # Installation and Usage
  1. Clone the repository.
  2. Install dependencies using the command "pip install fastapi mysql-connector-python uvicorn easydict"
